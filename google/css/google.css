@@ -1,0 +1,25 @@
+
+.container {
+    text-align: right;
+    padding: 15px 50px;
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.imgg {
+    text-align: center;
+    padding: 40px 0 0 0;
+}
+.src {
+    text-align: center;
+    background-color: transparent;
+}
+.asdf {
+    padding: 25px 0px;
+}
+.qarstb {
+    flex-grow: 1;
+}
+style {
+    display: none;
+}
